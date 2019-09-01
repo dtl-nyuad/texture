@@ -10,6 +10,8 @@ We describe Texture, a framework for data extraction over print documents that a
 **[A Collaborative Framework for Structure Identification over Print Documents](https://github.com/dtl-nyuad/texture/raw/resources/Texture-HILDA19.pdf)**
 <br/>
 <span style="font-size:80%">Maeda F. Hanafi, Miro Mannino, Azza Abouzied - HILDA'19</span>
+<br/>
+<span style="font-size:50%">[Poster](https://github.com/dtl-nyuad/texture/raw/resources/texture-poster.png)</span>
 
 
 ## Repository Content
