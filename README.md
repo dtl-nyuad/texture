@@ -16,5 +16,4 @@ We describe Texture, a framework for data extraction over print documents that a
 
 ## Repository Content
 
-This repository contains the published paper and support material.
-The project source code is still under development for further conferences and currently not publicly available.
+This repository contains links to items related to Texture. The project source code is still private.
